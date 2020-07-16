@@ -1,0 +1,20 @@
+{
+  "name": "vue-cli-plugin-cubejs",
+  "version": "0.0.1",
+  "description": "A Vue CLI plugin for Cube.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cube-js/cube.js/tree/master/packages/vue-cli-plugin-cubejs"
+  },
+  "keywords": [
+    "cube.js",
+    "vue-cli",
+    "plugin"
+  ],
+  "author": "Statsbot, Inc.",
+  "license": "MIT"
+}
